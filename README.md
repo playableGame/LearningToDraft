@@ -1,5 +1,6 @@
 # Learn to draft
-A drafting method based on MCTS and nerual network. This code is provied for testing and training on single machine.
+A drafting method based on MCTS and nerual network <<Which Heroes to Pick? Learning to Draft in MOBA Games with Neural Networks and Tree Search
+>>. This code is provied for testing and training on single machine. 
 
 ## Args
 Edit config.py
